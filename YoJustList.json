@@ -42,11 +42,11 @@
            "decimals": 6,
            "logoURI": "https://coin.top/production/upload/logo/TQx2dDDHv8xVr5HEYRygjWizYdzDmdUHNp.png?t=1610301580324"
        }
-       
+
    ],
    "version": { #Version info
        "major": 1, #Major version
        "minor": 0, #Minor version
        "patch": 0  #Patch version
    }
-}TQx2dDDHv8xVr5HEYRygjWizYdzDmdUHNp
+}
